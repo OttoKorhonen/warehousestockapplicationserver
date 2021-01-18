@@ -1,0 +1,9 @@
+{
+  "name": "warehousestockapplicationserver",
+  "version": "0.0.1",
+  "description": "server for fetching api from reaktor server",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.5"
+  }
+}
